@@ -16,14 +16,14 @@
     <a href="#usage">Usage</a> •
     <a href="#api-endpoints">API Endpoints</a> •
     <a href="#technologies-used">Technologies Used</a> •
-    <a href="#contributing">Contributing</a> •
+    <a href="#contributing">Contributing</a> 
   </p>
 
   ---
 
   <h2>🚀 Introduction</h2>
 
-  <p>Banglore Home Price Prediction is a Flask application that predicts home prices based on various factors such as square footage, number of bedrooms and bathrooms, and location.</p>
+  <p>Banglore Home Price Prediction is a Flask application that predicts home prices based on various factors such as square footage, number of bedrooms and bathrooms, location and for that I have used ML algorithms.</p>
 
   <h2>💻 Installation</h2>
 
@@ -66,7 +66,8 @@
   <ul>
     <li>Flask</li>
     <li>JavaScript</li>
-    <li>HTML/CSS</li>
+    <li>HTML</li>
+    <li>CSS</li>
     <li>jQuery</li>
   </ul>
 
