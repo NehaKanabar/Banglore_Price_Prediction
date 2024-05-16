@@ -65,6 +65,7 @@
 
   <ul>
     <li>Flask</li>
+    <li>Python</li>
     <li>JavaScript</li>
     <li>HTML</li>
     <li>CSS</li>
