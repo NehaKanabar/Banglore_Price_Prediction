@@ -69,7 +69,6 @@
     <li>JavaScript</li>
     <li>HTML</li>
     <li>CSS</li>
-    <li>jQuery</li>
   </ul>
 
   <h2>🤝 Contributing</h2>
