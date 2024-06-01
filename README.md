@@ -24,6 +24,7 @@
   <h2>🚀 Introduction</h2>
 
   <p>Banglore Home Price Prediction is a Flask application that predicts home prices based on various factors such as square footage, number of bedrooms and bathrooms, location and for that I have used ML algorithms.</p>
+<img src="https://github.com/NehaKanabar/Banglore_Price_Prediction/assets/130577117/63fe85aa-22ff-4cae-8a69-f69907a5f46a">
 
   <h2>💻 Installation</h2>
 
